@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi 👋 My name is Mohamad Sharafeddine
+=====================================
 
-<!--
-**MohamadSharafeddine/MohamadSharafeddine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Psychology graduate who recently discovered the joy of programming. I've always been fascinated by how the human mind works and how technology can enhance it. I'm also interested in AI, Data Science, and user experience design. I'm always eager to learn new things and collaborate with other developers. Feel free to connect with me on GitHub!
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Beirut, Lebanon.
+* ✉️  You can contact me at [mhsharafeddine@gmail.com](mailto:mhsharafeddine@gmail.com)
+* 🧠  I'm learning fundamental Computer Science topics that every Software Engineer should be familiar with. These topics include Algorithms and Data Structures, Complexity Analysis, Object-Oriented Programming, and an Introduction to Relational Databases.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/MHSharafeddine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/21854606/mhsharafeddine" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
