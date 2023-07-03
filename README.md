@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamad Sharafeddine
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamad
 ============================================================================================================================================
 
 I'm a Psychology graduate who recently discovered the joy of programming. I've always been fascinated by how the human mind works and how technology can enhance it. I'm also interested in AI, Data Science, and user experience design. I'm always eager to learn new things and collaborate with other developers. Feel free to connect with me on GitHub!
