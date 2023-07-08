@@ -5,7 +5,7 @@ I'm a Psychology graduate who recently discovered the joy of programming. I've a
 
 * 🌍  I'm based in Beirut, Lebanon.
 * ✉️  You can contact me at [mhsharafeddine@gmail.com](mailto:mhsharafeddine@gmail.com)
-* 🧠  I'm learning fundamental Computer Science topics that every Software Engineer should be familiar with. These topics include Algorithms and Data Structures, Complexity Analysis, Object-Oriented Programming, and an Introduction to Relational Databases.
+* 🧠  I'm currently learning fundamental Computer Science topics that every Software Engineer should be familiar with at SE Factory. These topics include Algorithms and Data Structures, Complexity Analysis, Object-Oriented Programming, and an Introduction to Relational Databases.
 
 ### Skills
 
