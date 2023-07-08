@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm a Psychology graduate who recently discovered the joy of programming. I've always been fascinated by how the human mind works and how technology can enhance it. I'm also interested in AI, Data Science, and User Experience Design. I'm always eager to learn new things and collaborate with other developers. Follow my journey and let's connect!
 
-* 🌍  I'm based in Beirut, Lebanon.
+* 🌍  I'm based in Beirut, Lebanon
 * ✉️  You can contact me at [mhsharafeddine@gmail.com](mailto:mhsharafeddine@gmail.com)
 * 🧠  I'm learning fundamental Computer Science topics that every Software Engineer should be familiar with at SE Factory. These topics include Algorithms and Data Structures, Complexity Analysis, Object-Oriented Programming, and an Introduction to Relational Databases.
 
