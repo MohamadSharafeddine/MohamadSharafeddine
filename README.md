@@ -1,15 +1,19 @@
 ![MasterHead](https://myweb2002.w3spaces.com/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Mohamad Sharafeddine</h1>
-<h3 align="center">A passionate full-stack web developer from Lebanon</h3>
+<h3 align="center">A passionate Full Stack Web Developer from Lebanon</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamadsharafeddine&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadsharafeddine" /> </p>
 
 - 🔭 I’m currently working on **CognifyEdu**
 
-- 👯 I’m looking to collaborate on **Code Editor**
+- 🌱 I’m currently learning **Next.js**
 
-- 📫 How to reach me **mhsharafeddine@gmail.com**
+- 📫 How to reach me: **mhsharafeddine@gmail.com**
+
+- 📄 Check out my experiences in my [Resume](https://drive.google.com/file/d/1eEBSGet8R2MHkzymuxYqeq6ebkoCxYJD/view?usp=drive_link)
+
+- ⚡ Fun fact: **Aún no sé español, ¡pero estoy decidido a aprenderlo!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
