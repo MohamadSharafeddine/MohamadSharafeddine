@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **CognifyEdu**
 - 🌱 I’m currently learning **Next.js**
 - 📫 How to reach me: **mhsharafeddine@gmail.com**
-- 📄 Check out my experiences in my [Resume](https://drive.google.com/file/d/1eEBSGet8R2MHkzymuxYqeq6ebkoCxYJD/view?usp=drive_link)
+- 📄 Check out my experiences in my [Resume](https://drive.google.com/file/d/1-H3tsu9mRPuJ5zKzAjwHFK5o76UZuVPt/view?usp=sharing)
 - ⚡ Fun fact: **Aún no sé español, ¡pero estoy decidido a aprenderlo!**
 
 <h2 align="left">🌐 Connect with me</h2>
