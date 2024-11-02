@@ -1,9 +1,9 @@
-![MasterHead](https://myweb2002.w3spaces.com/New-PNC-Animated-Banners.gif)
+![MasterHead](https://drive.google.com/uc?export=view&id=1pMa8trkPM404CppFDj-GdhD_xUkiyEay)
 
 <h1 align="center">Hi 👋, I'm Mohamad Sharafeddine</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Lebanon</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/19/b2/8c/19b28c8372aaec65623f7ee7332e74be.gif" style="margin-bottom: 20px;">
+<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1bcAl96Bt5HObKWQxOBYNcDLvNZH5XqMw" style="margin-bottom: 20px;">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mohamadsharafeddine&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadsharafeddine" /> 
