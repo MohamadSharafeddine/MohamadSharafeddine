@@ -1,9 +1,9 @@
-![MasterHead](https://drive.google.com/uc?export=view&id=1pMa8trkPM404CppFDj-GdhD_xUkiyEay)
+![MasterHead](assets/Website_Development_Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Mohamad Sharafeddine</h1>
 <h3 align="center">A passionate Full Stack Web Developer from Lebanon</h3>
 
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1bcAl96Bt5HObKWQxOBYNcDLvNZH5XqMw" style="margin-bottom: 20px;">
+<img align="right" alt="Coding" width="400" src="assets/Rule_The_World_Cat.gif" style="margin-bottom: 20px;">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mohamadsharafeddine&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadsharafeddine" /> 
