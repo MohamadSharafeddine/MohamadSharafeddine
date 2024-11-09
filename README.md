@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Mohamad Sharafeddine</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Lebanon</h3>
 
-<img align="right" alt="Coding" width="400" src="assets/Rule_The_World_Cat.gif" style="margin-bottom: 20px;">
+<img align="right" alt="Coding" width="400" src="assets/Rule_The_World_Cat.gif">
+<div>&nbsp;</div>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mohamadsharafeddine&label=Profile%20views&color=0e75b6&style=flat" alt="mohamadsharafeddine" /> 
@@ -12,7 +13,6 @@
 - 🔭 I’m currently working on **CognifyEdu**
 - 🌱 I’m currently learning **React Native**
 - 📫 How to reach me: **mhsharafeddine@gmail.com**
-- 📄 Check out my experiences in my [Resume](https://drive.google.com/file/d/1-H3tsu9mRPuJ5zKzAjwHFK5o76UZuVPt/view?usp=sharing)
 - ⚡ Fun fact: **Aún no sé español, ¡pero estoy decidido a aprenderlo!**
 
 <h2 align="left">🌐 Connect with me</h2>
