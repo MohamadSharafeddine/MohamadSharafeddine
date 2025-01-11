@@ -1,7 +1,7 @@
 ![MasterHead](assets/Website_Development_Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Mohamad Sharafeddine</h1>
-<h3 align="center">A passionate Full-Stack Web Developer from Lebanon</h3>
+<h3 align="center">A Full-Stack Developer from Lebanon</h3>
 
 <img align="right" alt="Coding" width="400" src="assets/Rule_The_World_Cat.gif">
 <div>&nbsp;</div>
