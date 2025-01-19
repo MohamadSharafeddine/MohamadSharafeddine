@@ -1,7 +1,7 @@
 ![MasterHead](assets/Website_Development_Banner.gif)
 
 <h1 align="center">Hi 👋, I'm Mohamad Sharafeddine</h1>
-<h3 align="center">A Full-Stack Developer from Lebanon</h3>
+<h3 align="center">A Full-Stack Web & Mobile App Developer from Lebanon</h3>
 
 <img align="right" alt="Coding" width="400" src="assets/Rule_The_World_Cat.gif">
 <div>&nbsp;</div>
@@ -11,7 +11,7 @@
 </p>
 
 - 🔭 I’m currently working on **CognifyEdu**
-- 🌱 I’m currently learning **advanced JavaScript**
+- 🌱 I’m currently learning **Next.js**
 - 📫 How to reach me: **mhsharafeddine@gmail.com**
 - ⚡ Fun fact: **Aún no sé español, ¡pero estoy decidido a aprenderlo!**
 
